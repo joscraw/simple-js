@@ -1,0 +1,19 @@
+{
+  "name": "simple_js",
+  "description": "Lightweight Javascript framework with special emphasis on the view.",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "qunit": "^2.4.1",
+    "underscore": "^1.8.3"
+  }
+}
